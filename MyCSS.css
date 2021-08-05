@@ -1,0 +1,16 @@
+small {
+    font-size: 14px; 
+    border: 1px;
+}
+
+input.line {
+    height:22px; 
+    text-align: center;
+    border-style: dotted;
+    border-color: black; 
+    border-width: 0px 0px 2px 0px;
+}
+input.box {
+    width: 20px; 
+    height: 22px;
+}
